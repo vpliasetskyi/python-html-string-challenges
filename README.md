@@ -17,7 +17,7 @@ and concatenation only. No parsers, no libraries — pure string primitives.
 | 1 | Update Page Metadata | `challenge/01-metadata` | ✅ Done |
 | 2 | Update Stylesheet and Script Sources | `challenge/02-assets` | ✅ Done |
 | 3 | Inject Heading Tags | `challenge/03-headings` | ✅ Done |
-| 4 | Add Paragraph and Image Tags | `challenge/04-content` | ⏳ Pending |
+| 4 | Add Paragraph and Image Tags | `challenge/04-content` | ✅ Done |
 | 5 | Full Page Builder | `challenge/05-full-page` | ⏳ Pending |
 
 ## Outputs
@@ -43,7 +43,7 @@ the updated `lang` attribute and `<title>` tag render correctly.
 
 **Concepts:** `.find()`, `.index()`, string slicing with computed positions, concatenation
 
-**Solution file:** `cchallenge_02_stylesheets_and_scripts.py`
+**Solution file:** `challenge_02_stylesheets_and_scripts.py`
 
 **HTML output file:** `html_outputs/challenge_02_output.html`
 
@@ -70,4 +70,21 @@ the updated `src` and `href`
 
 **Browser preview:** Open `html_outputs/challenge_03_output.html` in a browser to verify
 the updated `html`.
+
+
+
+### Challenge 4 — Add Paragraph and Image Tags
+
+**Concepts:**  `.find()`, `.rfind()`, multi-step string reconstruction, f-strings, `\n`and indentation management
+
+**Solution file:** `challenge_04_content.py`
+
+**HTML output file:** `html_outputs/challenge_04_output.html`
+
+**Terminal output:**
+
+![Challenge 2 Terminal](screenshots/challenge_04_terminal.png)
+
+**Browser preview:** Open `html_outputs/challenge_04_output.html` in a browser to verify
+the updated `html`
 
