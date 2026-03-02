@@ -83,8 +83,25 @@ the updated `html`.
 
 **Terminal output:**
 
-![Challenge 2 Terminal](screenshots/challenge_04_terminal.png)
+![Challenge 4 Terminal](screenshots/challenge_04_terminal.png)
 
 **Browser preview:** Open `html_outputs/challenge_04_output.html` in a browser to verify
+the updated `html`
+
+
+
+### Challenge 5 — Full Page Builder
+
+**Concepts:**  All previous methods combined, multi-step transformation pipeline, string validation
+
+**Solution file:** `challenge_05_full_page.py`
+
+**HTML output file:** `html_outputs/challenge_05_output.html`
+
+**Terminal output:**
+
+![Challenge 5 Terminal](screenshots/challenge_05_terminal.png)
+
+**Browser preview:** Open `html_outputs/challenge_05_output.html` in a browser to verify
 the updated `html`
 
