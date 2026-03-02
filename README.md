@@ -18,7 +18,8 @@ and concatenation only. No parsers, no libraries — pure string primitives.
 | 2 | Update Stylesheet and Script Sources | `challenge/02-assets` | ✅ Done |
 | 3 | Inject Heading Tags | `challenge/03-headings` | ✅ Done |
 | 4 | Add Paragraph and Image Tags | `challenge/04-content` | ✅ Done |
-| 5 | Full Page Builder | `challenge/05-full-page` | ⏳ Pending |
+| 5 | Full Page Builder | `challenge/05-full-page` | ✅ Done |
+
 
 ## Outputs
 
@@ -83,8 +84,25 @@ the updated `html`.
 
 **Terminal output:**
 
-![Challenge 2 Terminal](screenshots/challenge_04_terminal.png)
+![Challenge 4 Terminal](screenshots/challenge_04_terminal.png)
 
 **Browser preview:** Open `html_outputs/challenge_04_output.html` in a browser to verify
+the updated `html`
+
+
+
+### Challenge 5 — Full Page Builder
+
+**Concepts:**  All previous methods combined, multi-step transformation pipeline, string validation
+
+**Solution file:** `challenge_05_full_page.py`
+
+**HTML output file:** `html_outputs/challenge_05_output.html`
+
+**Terminal output:**
+
+![Challenge 5 Terminal](screenshots/challenge_05_terminal.png)
+
+**Browser preview:** Open `html_outputs/challenge_05_output.html` in a browser to verify
 the updated `html`
 
