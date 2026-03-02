@@ -18,7 +18,8 @@ and concatenation only. No parsers, no libraries — pure string primitives.
 | 2 | Update Stylesheet and Script Sources | `challenge/02-assets` | ✅ Done |
 | 3 | Inject Heading Tags | `challenge/03-headings` | ✅ Done |
 | 4 | Add Paragraph and Image Tags | `challenge/04-content` | ✅ Done |
-| 5 | Full Page Builder | `challenge/05-full-page` | ⏳ Pending |
+| 5 | Full Page Builder | `challenge/05-full-page` | ✅ Done |
+
 
 ## Outputs
 
